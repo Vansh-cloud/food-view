@@ -8,7 +8,7 @@ A full-stack food sharing application with React frontend and Node.js backend.
 food reel/
 ├── backend/          # Node.js/Express API server
 ├── frontend/         # React/Vite client application
-└── vdeos/           # Video assets
+└── videos/           # Video assets
 ```
 
 ## Setup Instructions
